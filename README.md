@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @svasqueziii
 - 👀 I’m interested in statistical programming
 - 🌱 I’m currently learning SQL, R, and Python
-- 💞️ I’m looking to collaborate on data analysis and visualization 
+- 💞️ I’m looking to collaborate on data analysis and visualization projects
 - 📫 How to reach me sylvestervasquez@gmail.com
 
 <!---
